@@ -1,0 +1,15 @@
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\bin\Debug\EmptyGUI.exe.config
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\bin\Debug\EmptyGUI.exe
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\bin\Debug\EmptyGUI.pdb
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.csprojAssemblyReference.cache
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form4_2_New_Product.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form1_Sign_In.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form_SignUp.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form3_Product_Or_Client_List.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form4_1_Product_List.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Form5_1_Client_List.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.Properties.Resources.resources
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.csproj.GenerateResource.cache
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.csproj.CoreCompileInputs.cache
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.exe
+C:\Users\msant\source\repos\UPRM-SICI-3029\svc-demo-myreilis-ferri-michael-santiago\obj\Debug\EmptyGUI.pdb

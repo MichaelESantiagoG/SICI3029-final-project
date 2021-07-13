@@ -1,0 +1,10 @@
+003/Pearl ring/Rings/54.00/23/
+004/Pearl bracelet/Bracelets/7.00/12/
+005/Pearl earrings/Earrings/23.00/32/
+006/Sea turtle earrings/Earrings/12.00/13/
+007/Sea turtle bracelet/Bracelets/23.00/16/
+008/Stars bracelet/Bracelets/6.00/45/
+009/Star earrings/Earrings/8.00/43/
+010/Rhinestones ring/Rings/5.00/31/
+423/342/243/34/542/
+yy/yy/yy/yy/yy/
